@@ -4,7 +4,6 @@
 <h3 align="center">A 42 Student</h3>
 
 - 🌱 I’m currently learning **C# / Unity**
-- 💬 Ask me about **C, C++**
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me `lbouchet -at- pm.me`
 

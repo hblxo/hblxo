@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **C# / Unity**
 - 💬 Ask me about **C, C++**
 - 😄 Pronouns: **He/Him**
-- 📫 How to reach me **lbouchet@pm.me**
+- 📫 How to reach me `*lbouchet -at- pm.me*`
 
 ----------
 
@@ -29,6 +29,5 @@ Here are some ideas to get you started:
 ----------
 
 <p align="center">
-<a href="https://dev.to/lbouchet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lbouchet" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/lbouchet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lbouchet" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/hbouchet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lbouchet" height="30" width="30" /></a>
 </p>

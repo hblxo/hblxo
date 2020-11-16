@@ -30,7 +30,7 @@
 ----------
 
 <p align="center">
-<a href="https://linkedin.com/in/hbouchet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lbouchet" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/lbouchet" target="blank"><img align="center" src="https://raw.githubusercontent.com/hblxo/hblxo/master/assets/icons/hackerrank-icon.png"
+<a href="https://linkedin.com/in/hbouchet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lbouchet - linkedin" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/lbouchet" target="blank"><img align="center" src="https://raw.githubusercontent.com/hblxo/hblxo/master/assets/icons/hackerrank-icon.png" alt="lbouchet - hackerrank" height="30" width="30"/></a>
 </p>
 

@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Léo</h1>
 <h3 align="center">A 42 Student</h3>
 
-- 🌱 I’m currently learning **C# / Unity**
+- 🌱 I’m currently learning **Qt**
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me `lbouchet -at- pm.me`
 
@@ -21,6 +21,7 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="Qt" width="40" height="40"/>
 </p>
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hblxo&layout=compact&hide=html" alt="hblxo" /></p>

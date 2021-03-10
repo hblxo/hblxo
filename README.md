@@ -7,8 +7,6 @@
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me `lbouchet -at- pm.me`
 
-<p align="center">[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/intra_id)](https://github.com/JaeSeoKim/badge42)</p>
-
 ----------
 
 <p align="center">
@@ -36,3 +34,6 @@
 <a href="https://www.hackerrank.com/lbouchet" target="blank"><img align="center" src="https://raw.githubusercontent.com/hblxo/hblxo/master/assets/icons/hackerrank-icon.png" alt="lbouchet - hackerrank" height="30" width="30"/></a>
 </p>
 
+
+------
+[![hbouchet's 42 stats](https://badge42.herokuapp.com/api/stats/hbouchet?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
